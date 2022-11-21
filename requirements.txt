@@ -8,3 +8,7 @@ pandas
 requests
 
 plotly
+
+
+#use this to find and run our tests:
+pytest
